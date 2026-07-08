@@ -1,4 +1,4 @@
-# 🌟 GazeControl AI Pro
+# 🌟 GazeControl AI
 **An Edge-AI Accessibility Tool for Hands-Free Computer Navigation.**
 
 Built by srinidhi
